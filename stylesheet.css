@@ -1,0 +1,20 @@
+.main-page{
+    justify-content: center;
+}
+
+.logo{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.accordion{
+width: 500px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.accordion-collapse{
+  background-color: rgb(153, 189, 255);
+}
+
